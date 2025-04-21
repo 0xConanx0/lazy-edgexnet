@@ -57,7 +57,7 @@ Compatible proxy providers:
 
 ```bash
 # Clone repository
-https://github.com/0xConanx0/lazy-edgexnet
+git clone https://github.com/0xConanx0/lazy-edgexnet
 
 # Navigate to folder
 cd lazy-edgexnet
