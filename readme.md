@@ -9,8 +9,6 @@ Automated account registration tool for EdgeX Network platform with referral cod
 
 ## Discussion
 
-If you have any questions, please join our discussion group:  
-[https://t.me/sdsproject_chat](https://t.me/sdsproject_chat)
 
 ## Proxy Providers
 
@@ -59,7 +57,7 @@ Compatible proxy providers:
 
 ```bash
 # Clone repository
-git clone https://github.com/akasakaid/lazy-edgexnet
+https://github.com/0xConanx0/lazy-edgexnet
 
 # Navigate to folder
 cd lazy-edgexnet
